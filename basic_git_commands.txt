@@ -1,0 +1,7 @@
+Firstly we use 'git init' command to initialize a project.
+Then we add 'git remote add <branch_name> to add a remote branch.
+then we use git add . to add the changes
+then we use git commit -m 'message' to commit the changes
+then we use push the code to the branch with git push origin <branch_name>
+
+I have crated a .bat file for this.
