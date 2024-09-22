@@ -1,0 +1,11 @@
+Firstly we will pull from the branch that have merge conflict
+git pull origin <branch_name>
+
+then we will try to merge our feature branch into the that branch.
+git merge <new_branch>
+
+If there are any conflicts, Git will let you know which files are causing issues.
+
+Then we will solve those conflict after identifying it.
+
+Then we will push it to main branch that have conflict.

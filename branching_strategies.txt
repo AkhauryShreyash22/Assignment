@@ -1,0 +1,13 @@
+We create new branches for each feature in feture branching, There will be a default branch like develop. From our feature branch
+reviewer will review the code and merge it into develop.
+
+we will create new featue branch with command:
+git checkout -b feature_branch
+
+then we will work on this feature branch and commit our changes and push it to feature_branch.
+
+git push origin feature_branch
+
+Then we will create a pull or merge request and assign it to our reviewer.
+
+After review the code will merge into develop
